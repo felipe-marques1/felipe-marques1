@@ -7,8 +7,8 @@ E espero que os meus projetos e a minha tragetória possa acrescentar em algo!!!
 
 <div>
   <a href="https://beacons.ai/felipe-marques1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-marques1&show_icons=true&theme=d&iclude_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-marques1&layout=compact&langs_count=16&theme=d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-marques1&show_icons=true&theme=transparent&iclude_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-marques1&layout=compact&langs_count=16&theme=transparent"/>
 </div>
   
  <div style="display: inline_block"><br>
