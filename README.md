@@ -1,9 +1,8 @@
-## Opá,  Felipe  aqui!
-Sou entusiasmado com a tecnologia, gosto de inovar e crescer em qualquer aspecto. Tenha certeza que eu farei com máximo minunsiosidade os meus projetos por mais simples que for.
-Afinal as grandes coisas são feitas apartir das coisas simples.
-E espero que os meus projetos e a minha tragetória possa acrescentar em algo!!!🎯
+## felipe-marques1
+Tenha certeza que eu farei com máximo minunsiosidade os meus projetos por mais simples que for.
+Afinal as grandes coisas são feitas a partir das coisas simples.
+E espero que os meus projetos e meus códigos possa acrescentar em algo!!!
 
-🚀"De melhoria em melhoria, melhoramos."
 
 <div>
   <a href="https://beacons.ai/felipe-marques1">
