@@ -1,7 +1,6 @@
 ## felipe-marques1
-Tenha certeza que eu farei com máximo minunsiosidade os meus projetos por mais simples que for.
-Afinal as grandes coisas são feitas a partir das coisas simples.
-E espero que os meus projetos e meus códigos possa acrescentar em algo!!!
+Espero que os meus projetos e meus códigos possa acrescentar.
+
 
 
 <div>
